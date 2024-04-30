@@ -13,6 +13,7 @@ const LikeSection = props => {
       <div
         className='like-section'
         key='likes-icons-container'
+    
       >
         <div className='like-section-wrapper'>
           ❤️
